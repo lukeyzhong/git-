@@ -7,3 +7,4 @@ const commit8 = C;
 const commit9 = DD
 
 ////////
+const a = 100;
