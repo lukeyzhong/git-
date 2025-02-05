@@ -8,3 +8,5 @@ const commit9 = DD
 
 ////////
 const a = 100;
+
+const f = 1;
