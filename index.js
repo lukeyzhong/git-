@@ -10,3 +10,6 @@ const commit9 = DD
 const a = 100;
 
 const d = 1;
+
+const b = 1;
+
